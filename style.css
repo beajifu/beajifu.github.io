@@ -1,5 +1,12 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
 .centered {
-  margin: 200 auto;
+  margin: auto;
 }
 
 .round {
